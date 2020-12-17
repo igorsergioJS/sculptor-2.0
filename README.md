@@ -10,5 +10,6 @@ Thiago Theiry de Oliveira;
 # Observações:
 
 O arquivo testeFinal.txt é o arquivo que testa todas as funções implementadas por meio de classes concretas;
+
 O arquivo testeFinal.OFF deve aparecer no diretório onde o projeto está sendo compilado (pasta build do Qt relativa ao projeto como diretório padrão);
 
