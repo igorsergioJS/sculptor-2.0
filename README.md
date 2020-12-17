@@ -1,5 +1,6 @@
 # sculptor-2.0
-Segunda parte do projeto escultor
+Segunda versão do projeto escultor que utiliza voxels para criar figuras tridimencionais, agora utilizando conceitos de polimorfismo, classe abstrata e gabaritos
+
 
 # Integrantes:
 Igor Sérgio de França Correia;
